@@ -1,6 +1,6 @@
 #testtttt
 
-a = input('whats a?')
+a = int(input('whats a?'))
 
 if a > 1:
 	print('more than 1')
